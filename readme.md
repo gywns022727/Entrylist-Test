@@ -11,6 +11,9 @@
 
 1. 이 프로젝트를 Fork 해서, 본인 레포지토리로 옮겨옵니다.
 2. VS code를 키고, `git clone <레포지터리 URL>`을 진행해줍니다.
+
+   ![image]("img/clone.png")
+
 3. 생성된 폴더를 VS code로 열고,
 
 ## 참고 블로그
